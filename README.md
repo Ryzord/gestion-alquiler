@@ -30,8 +30,8 @@ Este proyecto es una aplicación para una empresa gestora de alquileres turísti
 ### Clonar el Repositorio
 
 ```
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio 
+git clone https://github.com/Ryzord/gestion-alquiler.git
+cd gestion-alquiler
 composer install
 npm install
 npm run dev
